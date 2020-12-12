@@ -1,0 +1,28 @@
+/* start.wxss */
+
+.intro {
+  padding: 15% 80% 10% 10%;
+  color: #424242;
+  line-height: 1.5;
+}
+
+.intro2 {
+  margin:55% 60% 50% 0%;
+}
+
+.hello{
+  font-size: 70rpx;
+  color: rgb(17, 116, 230);
+}
+
+.btn1{
+  width: 60%;
+}
+
+.background{
+  widows: 100%;
+  height:100%;
+  position:fixed;
+  background-size:100% 100%;
+  z-index:-1;
+}

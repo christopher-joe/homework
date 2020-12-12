@@ -1,0 +1,8 @@
+<!--start.wxml-->
+<image class="background" src="/pages/src/1.jpg" ></image>
+<view class="intro">
+  <text class="hello">HELLO</text>
+</view>
+<view class="intro2">
+  <button type="primary" size="mini" class="btn1" bindtap="navigate">点击查看当前浴室洗浴人数</button>
+</view>
